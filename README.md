@@ -20,7 +20,7 @@
 
 
 - In `replication_by_tree_heights` sub-folder, results of other configurations of "tree heights" (see the paper for the detail) are stored. One can replicate them using the shared code in the `codes` folder and data in the `data` folder.
-  - Our preferred choice of tree height is 0.98, following [Tolbert and Sizer (1996)](https://ageconsearch.umn.edu/record/278812/). One can replicate with this tree height.
+  - Our preferred choice of tree height is 0.98, following [Tolbert and Sizer (1996)](https://ageconsearch.umn.edu/record/278812/). One can replicate with this tree height and try other values to see how results change.
   - However, CZ delineations users can replicate are different from ones in our paper published in this `output` folder. See "important note" below for detail.
 
 # `data` folder
